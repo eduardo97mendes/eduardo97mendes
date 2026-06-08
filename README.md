@@ -85,3 +85,5 @@ Tecnólogo em TI, educador e desenvolvedor em constante evolução. Apaixonado p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardo97mendes@gmail.com)
+
+![Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=7F77DD&style=flat)
