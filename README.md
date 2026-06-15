@@ -67,8 +67,6 @@ Tecnólogo em TI, educador e desenvolvedor em constante evolução. Apaixonado p
 
 ## ⚡ Além do Código
 
-- 🛡️ **Profissão:** Atualmente trabalho como vigilante noturno.
-- 🛠️ **Background Técnico:** Tenho formação técnica em Mecânica e capacitação como operador de empilhadeira e máquinas pesadas.
 - 🖨️ **Cultura Maker & Hobbies:** Entusiasta do mundo automotivo e colecionador de Hot Wheels. Também curto treinar na academia, trabalhar com impressão 3D e pintura de action figures.
 - 🎮 **Histórico Gamer:** Nascido em 1997, peguei uma das melhores épocas dos videogames. Minha jornada começou na nostalgia de assoprar cartuchos de Nintendo, passou pelas eras clássicas do PS1, PS2 e PS3, e continua firme hoje no PC.
 - 🎸 **Estilo Musical:** Movido a Rock, do clássico ao moderno. Minha playlist mistura o som de bandas como Linkin Park, Bring Me The Horizon, Avenged Sevenfold, Guns e Limp Bizkit com o rock nacional de Charlie Brown Jr., CPM 22 e Capital Inicial.
