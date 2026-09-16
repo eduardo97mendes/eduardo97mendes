@@ -1,95 +1,61 @@
-# Olá, eu sou o Eduardo! 👋
-
-Tecnólogo em TI, educador e desenvolvedor em constante evolução. Apaixonado por unir código, educação e cultura maker.
-
----
-
-## 🚀 Sobre mim
-
-- 🏠 Tenho 29 anos, sou casado e tutor de 4 gatos.
-- 🎓 Graduado como **Tecnólogo em Gestão da Tecnologia da Informação (GTI)**.
-- 📚 Atualmente cursando **Licenciatura em Informática**.
-- 👨‍🏫 Sou Professor de Programação Web no **CEDUP Diomício Freitas** (Tubarão - SC).
-- 💻 Especializando-me em Desenvolvimento Web através da **Rocketseat** 🚀.
-- 🖨️ Maker ativo: trabalho com modelagem 3D (Fusion 360) e **impressão 3D** de projetos funcionais.
-- 💬 Pode me perguntar sobre metodologias de ensino, desenvolvimento web ou calibração de impressoras 3D!
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
 
-### 🌐 Desenvolvimento Web
+# Eduardo Mendes Duarte
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Professor de Tecnologia | Desenvolvedor de Software
 
-### ⚙️ Editores, IA e Versionamento
+*Educação Técnica, Desenvolvimento Web, Banco de Dados & Engenharia de Prompts*
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 🧩 CMS, No-Code e Hospedagem
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-
-### 🖨️ Modelagem e Impressão 3D
-
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![OpenSCAD](https://img.shields.io/badge/OpenSCAD-4B7A8C?style=for-the-badge&logo=openscad&logoColor=white)
-![MakerWorld](https://img.shields.io/badge/MakerWorld-1DB954?style=for-the-badge&logo=bambulab&logoColor=white)
-![Creality Print](https://img.shields.io/badge/Creality%20Print-FF3C00?style=for-the-badge&logo=creality&logoColor=white)
-![Orca Slicer](https://img.shields.io/badge/Orca%20Slicer-0077B6?style=for-the-badge&logo=orca&logoColor=white)
-
-### 🎨 Design Gráfico e UI/UX
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
 </div>
----
 
-## 📂 Projetos em destaque
+### 📌 Apresentação Profissional
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| 🌐 Meu primeiro site | Site pessoal feito com HTML e CSS | [ver projeto](#) |
-| 🧮 Calculadora | Calculadora simples em JavaScript | [ver projeto](#) |
-
-> ⚠️ *Projetos em construção — atualizando sempre!*
+Professor no **CEDUP Diomício Freitas**, focado no ensino técnico de **Programação Web**, **Banco de Dados** e **Segurança de Dados**. Atuo na formação prática de alunos no desenvolvimento de aplicações full-stack, gerenciamento de dados relacionais e adoção de boas práticas de desenvolvimento orientado por Inteligência Artificial e ferramentas modernas. Paralelamente, atuo com **modelagem paramétrica e manufatura aditiva 3D**, aplicando conceitos de código e engenharia no desenvolvimento de peças e projetos sob medida.
 
 ---
 
-## ⚡ Além do Código
+### 🛠️ Competências & Tecnologias
 
-- 🖨️ **Cultura Maker & Hobbies:** Entusiasta do mundo automotivo e colecionador de Hot Wheels. Também curto treinar na academia, trabalhar com impressão 3D e pintura de action figures.
-- 🎮 **Histórico Gamer:** Nascido em 1997, peguei uma das melhores épocas dos videogames. Minha jornada começou na nostalgia de assoprar cartuchos de Nintendo, passou pelas eras clássicas do PS1, PS2 e PS3, e continua firme hoje no PC.
-- 🎸 **Estilo Musical:** Movido a Rock, do clássico ao moderno. Minha playlist mistura o som de bandas como Linkin Park, Bring Me The Horizon, Avenged Sevenfold, Guns e Limp Bizkit com o rock nacional de Charlie Brown Jr., CPM 22 e Capital Inicial.
+#### 💻 Linguagens & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#### 🗄️ Bancos de Dados & Gerenciamento
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-FFDD00?style=for-the-badge&logo=sqlite&logoColor=black)
+
+#### 🤖 Inteligência Artificial & Ferramentas
+![OpenAI Codex](https://img.shields.io/badge/Codex%20%2F%20ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🖨️ Modelagem & Manufatura 3D
+![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F9A825?style=for-the-badge&logo=openscad&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-009688?style=for-the-badge&logo=3d&logoColor=white)
+![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-00AE42?style=for-the-badge&logo=3d&logoColor=white)
+![Creality Print](https://img.shields.io/badge/Creality%20Print-EB1C24?style=for-the-badge&logo=3d&logoColor=white)
 ---
 
-## 📊 Estatísticas do GitHub
+### 🌐 Contato & Redes
 
-![Estatísticas do Eduardo](https://github-readme-stats.vercel.app/api?username=eduardo97mendes&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+<div align="left">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 
-## 📬 Contato
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardo97mendes@gmail.com)
+<br />
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=7F77DD&style=flat)
+**"Si vis pacem, para bellum"**
