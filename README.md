@@ -60,5 +60,8 @@ Professor no **CEDUP Diomício Freitas**, focado no ensino técnico de **Program
 
 
 <br />
+<div align="center">
 
-**"Si vis pacem, para bellum"**
+<h2><i>“Si vis pacem, para bellum”</i></h2>
+
+</div>
